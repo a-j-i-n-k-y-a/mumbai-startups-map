@@ -1,0 +1,728 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-18T19:15:51+00:00",
+  "caveats": [
+    "Seeded from the open YC mirror (yc-oss/api); YC is only one slice of Mumbai's ecosystem, so this is not a census.",
+    "21 of 26 records only have state-level location ('MH, India') in the source. They are pinned at the Mumbai centroid with precision='state' and must not be read as real addresses.",
+    "26 of 26 records are unverified. Add confirmed addresses to data/overrides.json."
+  ],
+  "companies": [
+    {
+      "id": "advantage-club",
+      "name": "Advantage Club",
+      "kind": "startup",
+      "tagline": "Global platform for employee engagement with rewards&flexible benefits",
+      "description": "Advantage Club is a global platform for employee engagement including rewards, flexible benefits, perks and communities. We are currently live with 1000+ companies across 100+ countries and have a ARR of ~$8m. Our revenue has grown ~4x in the last 1 year.",
+      "website": "https://www.advantageclub.co",
+      "sourceUrl": "https://www.ycombinator.com/companies/advantage-club",
+      "sector": "saas",
+      "stage": "seed",
+      "tags": [
+        "SaaS",
+        "Human Resources",
+        "B2B",
+        "HR Tech"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "city",
+        "source": "yc-oss"
+      },
+      "teamSize": 220,
+      "batch": "S21",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "algosurg-inc",
+      "name": "AlgoSurg Inc",
+      "kind": "startup",
+      "tagline": "We make AI technology for Robotic and AR Surgeries",
+      "description": "AlgoSurg makes AI software solutions, for various next-generation surgical applications ranging from Robotics-surgeries, AR-based-navigation/training, cloud-based 3D surgery planning and automatic patient-specific instrument/implant design.\r\n",
+      "website": "http://www.algosurg.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/algosurg-inc",
+      "sector": "healthtech",
+      "stage": "seed",
+      "tags": [
+        "Augmented Reality",
+        "Robotic Surgery",
+        "Medical Devices"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 8,
+      "batch": "W18",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "bimaplan",
+      "name": "Bimaplan",
+      "kind": "startup",
+      "tagline": "Affordable insurance for the next billion Indians",
+      "description": "Bimaplan is an affordable insurance platform for the next billion Indians.\r\n\r\nOur vision is to provide financial security to 150 million vulnerable households through contextual life and health insurance products. The growth in mobile penetration and the evolution of digital infrastructure in India has now made it possible to reach this vulnerable population. This is an $8 billion addressable market.\r\n\r\nWe launched in February 2021, and went live with one insurance underwriting partner. We are on track to sell 1,000 policies in March 2021. We are backed by some of the best early stage technology investors, successful fintech founders, and insurance industry veterans.\r\n\r\nThe company is founded by Vikul Goyal, a second-time founder with a successful exit track record. His previous venture, Carcrew, was acquired by TVS Group, a large automotive conglomerate in India.",
+      "website": "https://www.bimaplan.co",
+      "sourceUrl": "https://www.ycombinator.com/companies/bimaplan",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Fintech",
+        "Microinsurance"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 30,
+      "batch": "W21",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "bulk-mro-industrial-supply",
+      "name": "Bulk MRO Industrial Supply",
+      "kind": "startup",
+      "tagline": "Full Stack Fintech and Supply Chain Platform for Global Trade",
+      "description": "Bulk MRO is a Full Stack Fintech and Supply Chain Platform for Global Trade. \r\n\r\nWe provide our customers and suppliers turnkey solutions for procurement, sales and financing of long-tail industrial products (MRO items) as well as high value bulk commodities like agriculture, petroleum, and chemical products. \r\n\r\nWe work with hundreds of Large Corporations and Government customers across North America, Europe, India, Middle East, and Africa as a one-stop shop for millions of products from thousands of manufacturers.\r\n\r\nWe are backed by the world’s best investors like Y Combinator, Bain Capital Ventures, Ace & Co., Rebright Partners, Dream Incubator, Refactor Capital, AAF, and FJ Labs.\r\n",
+      "website": "http://www.bulkmro.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/bulk-mro-industrial-supply",
+      "sector": "fintech",
+      "stage": "series-b",
+      "tags": [
+        "Fintech",
+        "B2B"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "city",
+        "source": "yc-oss"
+      },
+      "teamSize": 170,
+      "batch": "W17",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "craze",
+      "name": "Craze",
+      "kind": "startup",
+      "tagline": "The AI Video Maker",
+      "description": "Craze is the AI video agent that plans, edits and turns creative direction into tasteful videos people actually watch.",
+      "website": "https://www.craze.ai/?utm_source=yc",
+      "sourceUrl": "https://www.ycombinator.com/companies/craze",
+      "sector": "media",
+      "stage": "seed",
+      "tags": [
+        "Artificial Intelligence",
+        "Video",
+        "Media"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "city",
+        "source": "yc-oss"
+      },
+      "teamSize": 8,
+      "batch": "S22",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "drip-capital",
+      "name": "Drip Capital",
+      "kind": "startup",
+      "tagline": "Digital trade finance and B2B commerce company",
+      "description": "Drip is a financial technology company building modern infrastructure to make trade finance and B2B commerce easy and accessible for small businesses worldwide. Its AI native, predictive underwriting, and processing engine streamlines credit assessment and automates end-to-end transaction workflows. To date, Drip has facilitated more than $8 billion in cross-border trade for 11,000 businesses across 60 countries.\r\nWorking to close the $1.8 trillion global trade finance gap, Drip enables small and midsize businesses to trade with confidence across borders. The company has built a strong partner ecosystem — including leading capital providers such as Barclays, TD Bank, and the IFC, as well as logistics firms, insurance brokers, and B2B invoicing platforms — to expand distribution and impact. Drip is backed by global investors including Accel, Sequoia, Wing VC, Sumitomo Mitsui Banking Corporation, GMO Payments, TD Bank, and Y Combinator.",
+      "website": "http://dripcapital.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/drip-capital",
+      "sector": "fintech",
+      "stage": "series-b",
+      "tags": [
+        "Fintech"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 280,
+      "batch": "S15",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "easyplan",
+      "name": "Easyplan",
+      "kind": "startup",
+      "tagline": "An AI-driven investment app for beginner investors in India",
+      "description": "Easyplan is an investment app for beginner investors in India (kind of a cross between Betterment and Qapital in the US). We also provide users with a credit card secured by their investments. \r\n\r\nWe launched with money market funds and have ~40,000 customers who’ve invested (~40% MoM growth). The pandemic spurred interest among new investors, and our AUM has grown 3x since April 2020. And we’ve done this with a cost of acquisition that is 10% of the industry average. \r\n\r\nHere’s the problem we see. Only 10% of the 100 million middle-income Indian workers have invested in the markets. This is despite the fact that they save ~30% of their income, making this a $325B potential market in assets under management. \r\n\r\nHowever, current investment apps in India are built for active investors. With over 16,000+ mutual funds and 5000+ stocks to choose from, they are far too complicated for beginners, who make up most of the market.\r\n\r\nWe’re building an AI - driven investment planning software that is designed for beginners. Users use our conversational AI to get diversified mutual fund portfolios tailored to their goals. We also offer users a credit card secured by their investments, so they can earn return without losing liquidity.\r\n\r\nIn terms of business model, we make commissions on the asset we manage, and interchange fees on the fund. We estimate we can make $12 per user per year, which is 6x our current acquisition cost of $2 per investor.",
+      "website": "https://easyplan.in/",
+      "sourceUrl": "https://www.ycombinator.com/companies/easyplan",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Fintech",
+        "India",
+        "Investing"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 8,
+      "batch": "W20",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "ethosx",
+      "name": "EthosX",
+      "kind": "startup",
+      "tagline": "The protocol for derivatives on blockchains",
+      "description": "EthosX is a decentralized finance platform creating end-to-end financial derivatives on blockchains. No centralized exchanges, clearinghouses, depositories, clearing banks, CSD participants etc. required.\r\n\r\nWe are starting with cryptocurrency options first, with the intention to move towards other crypto derivatives and traditional finance derivatives eventually.\r\n\r\nFor example, one can buy a bitcoin hedging token directly from EthosX without involving any exchange or counterparty and earn profits when the bitcoin price is falling (similar to a put option). It is perpetual and is completely on-chain, end-to-end. It is held as a token in wallets and can be sold/transferred to anyone at any time.\r\n\r\nAt institutional level, using EthosX’s options infrastructure two hedge funds can trade high-value on-chain options with each other directly without involving any banks or brokers with zero counterparty risk and zero settlement risk.\r\n\r\nWe are also providing derivatives infrastructure to other crypto companies who want to use these products as a part of a larger package to their customers.\r\n\r\nGlobal derivatives ecosystem is broken. Derivatives trading in traditional finance has way too many gatekeepers and intermediaries. Crypto was supposed to be free of these issues and a solution to all of this, but it is itself getting more and more centralized with disastrous consequences.\r\n\r\nWe at EthosX intend to pick the best of both worlds and change the way retail and institutional financial derivatives are traded world over.",
+      "website": "https://www.ethosx.finance/",
+      "sourceUrl": "https://www.ycombinator.com/companies/ethosx",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "DeFi",
+        "Fintech",
+        "Crypto / Web3",
+        "Consumer",
+        "B2B"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "city",
+        "source": "yc-oss"
+      },
+      "teamSize": 2,
+      "batch": "S22",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "godutch",
+      "name": "goDutch",
+      "kind": "startup",
+      "tagline": "Group payments product which lets people pay together at any offline…",
+      "description": "goDutch is a new-age fintech app that powers group payments for millennials. We’re on a mission to reimagine group payments and enable people to enjoy with their friends without any worry of awkward reminders, delayed payments, and multiple transactions.\r\n\r\nWe've first-hand seen that group payments are very tedious - one person first pays on behalf of the entire group, then calculates and makes a note of who owes whom how much, and then individually reminds each person to pay back. At goDutch, we are passionately working towards re-imagining this multi-step process that extends over numerous days and multiple apps. Our focus is on being design-led and driving cutting-edge fintech innovation.\r\n\r\ngoDutch is founded by IIT Bombay grads with a total work experience of 10+ years in fintech and we are backed by global VC investors including Y Combinator.",
+      "website": "https://godutchpay.in",
+      "sourceUrl": "https://www.ycombinator.com/companies/godutch",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Fintech"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 10,
+      "batch": "W20",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "helpnow",
+      "name": "HelpNow",
+      "kind": "startup",
+      "tagline": "India's most reliable Ambulance service. (uber for ambulances)",
+      "description": "We are creating an aggregated network of Ambulances, and \"MedCabs\", i.e. ridesharing cabs converted into Medical first responder network, to drastically reduce medical help arrival time in India and save 70,000+ lives daily.\r\n",
+      "website": "http://www.getHelpNow.in",
+      "sourceUrl": "https://www.ycombinator.com/companies/helpnow",
+      "sector": "healthtech",
+      "stage": "seed",
+      "tags": [
+        "Health Tech"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 50,
+      "batch": "W20",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "imt-care",
+      "name": "IMT Care",
+      "kind": "startup",
+      "tagline": "Disrupting Indian Insurance space by empowering distrubutors",
+      "description": "India’s insurance market is filled with bygone products, which do not cater to 95% of the market's demand for specific products such as illness-specific insurance, primary care with insurance, and surgical insurance to name a few. \r\n\r\nWe, at IMT, aim to target this white space by creating innovative products that fulfill this new demand by empowering the agents. Agents are the largest insurance distribution channel in India and cover 85% of the premium collection. \r\n\r\nAgents collect 20B premium every year. With a 5% take rate, it’s a 1B dollar market opportunity growing at 22% CAGR.\r\n\r\nKunal has 15+ years of experience working with insurance companies and building agent networks, while he scaled his brokerage business to 3M dollars in revenue. Rachit has 12+ years of experience in building tech products, he was a founding engineer at Payu (stripe of India).\r\n",
+      "website": "https://www.imt.care",
+      "sourceUrl": "https://www.ycombinator.com/companies/imt-care",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Healthcare",
+        "Insurance",
+        "India"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 23,
+      "batch": "W22",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "inferedge",
+      "name": "InferEdge",
+      "kind": "startup",
+      "tagline": "Agentic AI for buy-side firms",
+      "description": "InferEdge builds agentic AI for the buy-side - systems that run autonomously across research, portfolio management, and risk, for equity and fixed income. The point isn't generating a generic note - anyone can do that now. For example, when earnings season hits, our agents produce the quarter's coverage in your analysts' own tone and format, matching how your desk already writes, so it doesn't need a rewrite before it's usable. We build on top of LLMs, turning raw model capability into consistent and auditable workflows, not another stalled prototype.",
+      "website": "https://www.inferedge.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/inferedge",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "B2B",
+        "Enterprise Software",
+        "Investments"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 20,
+      "batch": "W22",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "kodo",
+      "name": "Kodo",
+      "kind": "startup",
+      "tagline": "Corporate card & spend management platform for Indian startups",
+      "website": "https://www.kodo.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/kodo",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Fintech"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 45,
+      "batch": "W21",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "loop-health",
+      "name": "Loop Health",
+      "kind": "startup",
+      "tagline": "Modern & comprehensive health insurance plan for employees in India",
+      "description": "Loop Health is a new type of healthcare provider in India combining high-quality primary care and insurance for employers. Employees get unlimited primary care visits at our asset-light clinics, alongside traditional hospitalization insurance.\r\n\r\nDuring YC, we grew from 0 to $85,000 ARR with 200% MoM growth. We serve 22 companies and 5500 members across Pune. \r\n\r\nEmployers pay us $15/member/year and we make an additional $25 on prescriptions, lab tests, and hospitalization referrals. Our total gross margins are 70%.\r\n\r\n200MM Indians are covered with employer-funded health insurance, representing a $8 billion dollar market opportunity, growing at 27% CAGR.\r\n\r\nIndian employers are dissatisfied with their health benefits today because insurance in India only covers hospital stays, not doctor visits – and only 8% of their employees will ever use the benefit in the year. With Loop, employers can offer a more engaging health benefit that includes doctor visits and telemedicine, alongside traditional hospital coverage, for about the same price. Because their employees have better access to doctors, we can also offer lower insurance premiums.",
+      "website": "http://www.loophealth.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/loop-health",
+      "sector": "fintech",
+      "stage": "series-b",
+      "tags": [
+        "Healthcare",
+        "Insurance",
+        "Primary Care"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 27,
+      "batch": "W20",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "neodocs",
+      "name": "Neodocs",
+      "kind": "startup",
+      "tagline": "Instant lab tests on your smartphone",
+      "description": "Neodocs lets you perform instant lab tests on your smartphone. Our users are health optimizers and athletes who want to improve key nutritional markers for better performance.\r\n\r\nYou simply collect your sample, take a picture, and results are instantly generated.\r\n\r\n\r\nWe are the perfect team to build this. Anurag is a 3-time medical entrepreneur who’s built medical devices, Pratik has worked on AI/ML models for leading US banks, and  Nikunj comes from a consulting background at Bain & Co.\r\n\r\nWe’re building your personal lab on your phone.",
+      "website": "https://www.neodocs.in",
+      "sourceUrl": "https://www.ycombinator.com/companies/neodocs",
+      "sector": "healthtech",
+      "stage": "seed",
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer Health Services",
+        "Medical Devices"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 20,
+      "batch": "S21",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "nino-foods",
+      "name": "Nino Foods",
+      "kind": "startup",
+      "tagline": "Building India's fast food empire",
+      "description": "Nino Foods builds and operates fast food restaurants in India. We own 3 brands- Nino Burgers, Francesco's Pizzeria and KHA-Fried Chicken. We operate QSR and cloud kitchen formats and have industry leading payback period per store (<1 year). We are tripling in size yearly and are profitable. We have 20 Locations in Mumbai and service 40K orders per month. The founding team has Nishant - an Insead MBA, and Pranav-who led online revenue for Disney and Conde Nast India. ",
+      "website": "https://eatnino.com/",
+      "sourceUrl": "https://www.ycombinator.com/companies/nino-foods",
+      "sector": "logistics",
+      "stage": "seed",
+      "tags": [
+        "Ghost Kitchens",
+        "Delivery",
+        "E-commerce",
+        "Food & Beverage"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 250,
+      "batch": "S21",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "piggy",
+      "name": "Piggy",
+      "kind": "startup",
+      "tagline": "App for Indians to make investments in mutual funds, manage their…",
+      "description": "Experience an easy way to make Investments in Mutual funds in India.\r\n\r\nEasiest platform to make mutual fund investments in India.\r\nBecause you need to make Investments, be it just to park your cash short term to earn better returns, or to invest for your goals or retirement, we've made an easy to use platform for you where you can invest in any fund in India in few clicks and have track your existing investments.\r\n\r\nFurthermore , you make investments without paying any middlemen commissions and make more returns . After all, It is your money. Don't pay too much to others when you can do it on your own.\r\n\r\nWe're on both Android and iOS . download the app to get started \r\nhttps://piggy.co.in",
+      "website": "https://piggy.co.in",
+      "sourceUrl": "https://www.ycombinator.com/companies/piggy",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Finance",
+        "India",
+        "Investing"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 2,
+      "batch": "S17",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "pillarplus",
+      "name": "PillarPlus",
+      "kind": "startup",
+      "tagline": "Software to automatically create construction blueprints",
+      "description": "We put life into a building by designing it’s mechanical, fire, electrical, plumbing services. Architects and contractors hire consultants, who still design the building manually. Our software automates this design step and even calculates the bill of materials with project cost estimates.",
+      "website": "https://pillarplus.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/pillarplus",
+      "sector": "realestate",
+      "stage": "seed",
+      "tags": [
+        "Artificial Intelligence",
+        "Construction",
+        "B2B"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 30,
+      "batch": "W20",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "propreturns",
+      "name": "PropReturns",
+      "kind": "startup",
+      "tagline": "End-to-end commercial real estate transaction platform ",
+      "description": "PropReturns is an online platform to buy, sell and rent commercial real estate in India. The real estate market in India is highly fragmented and plagued by lack of transparency. We empower businesses and individuals in India to transact commercial real estate backed by data.",
+      "website": "https://www.propreturns.com/",
+      "sourceUrl": "https://www.ycombinator.com/companies/propreturns",
+      "sector": "fintech",
+      "stage": "seed",
+      "tags": [
+        "Fintech",
+        "Marketplace",
+        "Proptech"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 40,
+      "batch": "S21",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "redbrick-ai",
+      "name": "RedBrick AI",
+      "kind": "startup",
+      "tagline": "Rapid medical data annotation",
+      "description": "RedBrick AI's mission is to accelerate the adoption of artificial intelligence in radiology by building world-class software infrastructure. Currently, we are focused on helping radiology AI teams prepare high-quality datasets to train their algorithms.\r\n\r\nRadiology data, such as CT and X-ray scans, is an incredibly important source of truth in healthcare delivery. In fact, over 90% of all healthcare data is medical imagery! However, the global radiology workforce is overburdened. In the UK, for example, only 2% of radiology departments are able to fulfill their reporting requirements, and this trend is reflected worldwide.\r\n\r\nThe acute state of radiology, coupled with the abundance of data, makes the use of AI in radiology a prime candidate. In 2022, $5.6 billion was invested in the development of AI in healthcare! However, a key hindrance to further adoption is the lack of sophisticated tools to build and deploy AI algorithms in clinical environments. This is the problem we’re focused on at RedBrick AI\r\n\r\nWe're a team based out of Bangalore India, and USA. We're backed by leading institutional investors like Y Combinator and Peak XV (formerly Sequoia Capital India). ",
+      "website": "https://redbrickai.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/redbrick-ai",
+      "sector": "healthtech",
+      "stage": "seed",
+      "tags": [
+        "AIOps",
+        "Machine Learning",
+        "Healthcare"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 13,
+      "batch": "W22",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "taali-inc",
+      "name": "Taali Inc",
+      "kind": "startup",
+      "tagline": "Taali is creating popcorn 2.0 from popped water lily seeds",
+      "website": "https://www.taalifoods.com/",
+      "sourceUrl": "https://www.ycombinator.com/companies/taali-inc",
+      "sector": "consumer",
+      "stage": "seed",
+      "tags": [
+        "Grocery"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "city",
+        "source": "yc-oss"
+      },
+      "batch": "W19",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "techbiz",
+      "name": "TechBiz",
+      "kind": "startup",
+      "tagline": "MIS on mobile for SMB's in India",
+      "description": "SMEs find it hard to derive value from their business data which is stuck inside hard-to-access accounting softwares. We provide them an app-first MIS/Business Intelligence solution to track their business essentials (Debtors, Creditors, Sales, Outstanding etc.) and help make quicker and better decisions.",
+      "website": "https://www.techbiz.app",
+      "sourceUrl": "https://www.ycombinator.com/companies/techbiz",
+      "sector": "saas",
+      "stage": "seed",
+      "tags": [
+        "SaaS",
+        "SMB"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 3,
+      "batch": "W21",
+      "status": "acquired",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "thunderpod",
+      "name": "Thunderpod",
+      "kind": "startup",
+      "tagline": "Community Engagement Platform",
+      "description": "Thunderpod is a no-code platform that helps workplaces and communities engage their members by providing them with an Engagement Management System (EMS).\r\n\r\nWhat SurveyMonkey is for surveys, Thunderpod is for engagement.",
+      "website": "https://www.thunderpod.com/",
+      "sourceUrl": "https://www.ycombinator.com/companies/thunderpod",
+      "sector": "saas",
+      "stage": "seed",
+      "tags": [
+        "SaaS",
+        "Community"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 12,
+      "batch": "W20",
+      "status": "inactive",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "veera-health",
+      "name": "Veera Health",
+      "kind": "startup",
+      "tagline": "We treat women with Polycystic Ovary Syndrome in India",
+      "description": "Veera Health is helping 110M women in India get treated for Polycystic Ovary Syndrome (PCOS).  Our app combines evidence-backed therapy with coaching & specialist support for a subscription fee.\r\n\r\nPCOS is the most common cause of infertility in women, and can lead to diabetes, depression and cancer. Patients spend up to 10 years and thousands of rupees searching for the right treatment, yet 90% are dissatisfied with existing options. With our program, 85% patients report feeling \"in control\" of their PCOS after just 1 month and are 4-times more likely to complete treatment.\r\n\r\nThe founders, Shobhita (COO) and Shashwata (CEO) got an inside view into this massive need when the former was diagnosed with PCOS. Shashwata studied data science at Yale University, holds an MBA from Wharton, and helped grow Fortune 100 and growth-stage consumer health / product companies at McKinsey. Shobhita studied Biology & Psychology at Tufts University and has worked with leading healthcare companies, such as GlaxoSmithKline, Accenture Life Sciences & UnitedHealth.",
+      "website": "https://www.veerahealth.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/veera-health",
+      "sector": "healthtech",
+      "stage": "seed",
+      "tags": [
+        "Consumer Health Services",
+        "Femtech"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 4,
+      "batch": "W21",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "zeo-route-planner",
+      "name": "Zeo Route Planner",
+      "kind": "startup",
+      "tagline": "Route Optimisation platform for SMB in delivery & home services.",
+      "description": "Experience cutting-edge route optimization with Zeo, a versatile platform designed for both mobile and web. Our innovative app, trusted by over 1 million drivers across 146 countries, revolutionizes last-mile delivery by minimizing delivery times and reducing costs.\r\n\r\nZeo Fleet, an essential tool for fleet managers and businesses, offers a seamless, no code solution to manage and assign stops to drivers, streamlining setup in under 15 minutes. Join 5,000+ businesses that rely on Zeo for daily route planning.\r\n\r\nZeo caters to a diverse range of industries including last-mile delivery, waste management, healthcare, home services (like lawn mowing, pool maintenance, handyman services, HVAC), real estate, building inspection, and national park service.\r\n\r\nKey features of Zeo include advanced stop assignment, efficient route optimization, real-time driver tracking, comprehensive proof of delivery tracking, effective load assignment, and precise geo-fencing for drivers.\r\n\r\nChoose Zeo for a smarter, more efficient routing solution.",
+      "website": "https://zeorouteplanner.com",
+      "sourceUrl": "https://www.ycombinator.com/companies/zeo-route-planner",
+      "sector": "logistics",
+      "stage": "seed",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Logistics",
+        "Supply Chain",
+        "Transportation"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 15,
+      "batch": "W20",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    },
+    {
+      "id": "zepto",
+      "name": "Zepto",
+      "kind": "startup",
+      "tagline": "10-Minute Grocery Delivery in India",
+      "description": "We deliver groceries in 10 minutes through a network of optimized micro-warehouses or 'dark stores' that we build across cities in India.\r\n\r\nWe're currently doing hundreds of millions of dollars in annual sales with best-in-class unit economics - come join us!",
+      "website": "https://www.zeptonow.com/",
+      "sourceUrl": "https://www.ycombinator.com/companies/zepto",
+      "sector": "logistics",
+      "stage": "series-b",
+      "tags": [
+        "Grocery",
+        "Delivery"
+      ],
+      "area": "unknown",
+      "geo": {
+        "lat": 19.076,
+        "lng": 72.8777,
+        "precision": "state",
+        "source": "yc-oss"
+      },
+      "teamSize": 1300,
+      "batch": "W21",
+      "status": "active",
+      "source": "yc-oss",
+      "verified": false
+    }
+  ]
+}
